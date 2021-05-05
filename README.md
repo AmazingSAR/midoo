@@ -1,2 +1,2 @@
-# midoo
-A workflow framework for common algorithm
+# Midoo
+Midoo is a workflow framework for common algorithm.
