@@ -1,2 +1,2 @@
 # midoo
-midoo is a workflow framework for common algorithm.
+midoo is a library with algorithm collected or written.
