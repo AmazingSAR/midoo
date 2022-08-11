@@ -1,5 +1,5 @@
 # midoo
-midoo is a library collected or written by AmazingSAR.
+midoo is a library collected or written  for SAR & InSAR.
 ## Plans
 - SAR imaging Algorithm with CUDA
 - SAR interferometry Algorithm with CUDA
